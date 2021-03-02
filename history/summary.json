@@ -4,10 +4,10 @@
     "url": "https://reddit.premii.com",
     "icon": "https://favicons.githubusercontent.com/reddit.premii.com",
     "slug": "reddify-for-reddit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
@@ -15,16 +15,18 @@
     "timeWeek": 252,
     "timeMonth": 198,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 1
+    }
   },
   {
     "name": "Hacker News APP",
     "url": "https://hn.premii.com",
     "icon": "https://favicons.githubusercontent.com/hn.premii.com",
     "slug": "hacker-news-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 242,
     "timeMonth": 238,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 0
+    }
   },
   {
     "name": "Secret Site",
