@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/reddit.premii.com",
     "slug": "reddify-for-reddit",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 203,
-    "timeDay": 222,
-    "timeWeek": 244,
-    "timeMonth": 197,
-    "timeYear": 203,
-    "dailyMinutesDown": {
-      "2021-03-02": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 202,
+    "timeDay": 141,
+    "timeWeek": 211,
+    "timeMonth": 194,
+    "timeYear": 202,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News APP",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/hn.premii.com",
     "slug": "hacker-news-app",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 207,
-    "timeDay": 218,
-    "timeWeek": 237,
-    "timeMonth": 236,
-    "timeYear": 207,
-    "dailyMinutesDown": {
-      "2021-03-02": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 209,
+    "timeDay": 268,
+    "timeWeek": 252,
+    "timeMonth": 241,
+    "timeYear": 209,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site",
@@ -51,8 +47,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 266,
-    "timeDay": 151,
-    "timeWeek": 208,
+    "timeDay": 305,
+    "timeWeek": 217,
     "timeMonth": 251,
     "timeYear": 266,
     "dailyMinutesDown": {
