@@ -22,9 +22,9 @@
     "url": "https://hn.premii.com",
     "icon": "https://favicons.githubusercontent.com/hn.premii.com",
     "slug": "hacker-news-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 234,
     "timeMonth": 232,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-12": 0
+    }
   },
   {
     "name": "Secret Site",
@@ -42,12 +44,12 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "97.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 244,
-    "timeDay": 176,
+    "timeDay": 169,
     "timeWeek": 265,
     "timeMonth": 235,
     "timeYear": 244,
