@@ -2,7 +2,7 @@
   {
     "name": "Reddify for Reddit",
     "url": "https://reddit.premii.com",
-    "icon": "https://favicons.githubusercontent.com/reddit.premii.com",
+    "icon": "https://icons.duckduckgo.com/ip3/reddit.premii.com.ico",
     "slug": "reddify-for-reddit",
     "status": "up",
     "uptime": "100.00%",
@@ -11,16 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 163,
-    "timeWeek": 280,
-    "timeMonth": 223,
-    "timeYear": 215,
+    "timeDay": 283,
+    "timeWeek": 287,
+    "timeMonth": 224,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News APP",
     "url": "https://hn.premii.com",
-    "icon": "https://favicons.githubusercontent.com/hn.premii.com",
+    "icon": "https://icons.duckduckgo.com/ip3/hn.premii.com.ico",
     "slug": "hacker-news-app",
     "status": "up",
     "uptime": "99.99%",
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 198,
-    "timeDay": 107,
-    "timeWeek": 185,
-    "timeMonth": 219,
+    "timeDay": 178,
+    "timeWeek": 175,
+    "timeMonth": 210,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2022-05-17": 92
@@ -40,7 +40,7 @@
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.97%",
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 119,
-    "timeWeek": 196,
-    "timeMonth": 198,
-    "timeYear": 234,
+    "timeDay": 257,
+    "timeWeek": 203,
+    "timeMonth": 200,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   }
 ]
