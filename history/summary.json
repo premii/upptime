@@ -4,9 +4,9 @@
     "url": "https://reddit.premii.com",
     "icon": "https://icons.duckduckgo.com/ip3/reddit.premii.com.ico",
     "slug": "reddify-for-reddit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 380,
     "timeMonth": 232,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-21": 0
+    }
   },
   {
     "name": "Hacker News APP",
     "url": "https://hn.premii.com",
     "icon": "https://icons.duckduckgo.com/ip3/hn.premii.com.ico",
     "slug": "hacker-news-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -34,6 +36,7 @@
     "timeMonth": 196,
     "timeYear": 199,
     "dailyMinutesDown": {
+      "2022-12-21": 0,
       "2022-05-17": 92
     }
   },
