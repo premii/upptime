@@ -4,19 +4,19 @@
     "url": "https://reddit.premii.com",
     "icon": "https://icons.duckduckgo.com/ip3/reddit.premii.com.ico",
     "slug": "reddify-for-reddit",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 5236,
-    "timeWeek": 960,
-    "timeMonth": 390,
+    "time": 223,
+    "timeDay": 2831,
+    "timeWeek": 893,
+    "timeMonth": 391,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2023-01-09": 0
+      "2023-01-09": 21
     }
   },
   {
