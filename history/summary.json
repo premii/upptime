@@ -24,7 +24,7 @@
     "url": "https://hn.premii.com",
     "icon": "https://icons.duckduckgo.com/ip3/hn.premii.com.ico",
     "slug": "hacker-news-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 314,
     "timeYear": 211,
     "dailyMinutesDown": {
+      "2023-01-09": 0,
       "2022-05-17": 92
     }
   },
