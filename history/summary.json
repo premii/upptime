@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/reddit.premii.com.ico",
     "slug": "reddify-for-reddit",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 212,
-    "timeDay": 352,
-    "timeWeek": 273,
-    "timeMonth": 276,
-    "timeYear": 213,
+    "time": 213,
+    "timeDay": 422,
+    "timeWeek": 301,
+    "timeMonth": 284,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2025-02-20": 58
     }
@@ -30,14 +30,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 216,
-    "timeDay": 184,
-    "timeWeek": 304,
-    "timeMonth": 253,
-    "timeYear": 222,
+    "time": 217,
+    "timeDay": 528,
+    "timeWeek": 324,
+    "timeMonth": 263,
+    "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-02-20": 57,
-      "2024-08-10": 24
+      "2025-02-20": 57
     }
   },
   {
@@ -46,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "71.08%",
+    "uptime": "71.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.21%",
-    "time": 241,
-    "timeDay": 149,
-    "timeWeek": 334,
-    "timeMonth": 260,
+    "time": 240,
+    "timeDay": 85,
+    "timeWeek": 316,
+    "timeMonth": 249,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-08-09": 1,
+      "2025-08-10": 1,
+      "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
@@ -420,8 +420,7 @@
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
-      "2024-08-11": 1440,
-      "2024-08-10": 1440
+      "2024-08-11": 1440
     }
   }
 ]
