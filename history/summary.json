@@ -4,7 +4,7 @@
     "url": "https://reddit.premii.com",
     "icon": "https://icons.duckduckgo.com/ip3/reddit.premii.com.ico",
     "slug": "reddify-for-reddit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 263,
     "timeYear": 246,
     "dailyMinutesDown": {
+      "2026-01-02": 0,
       "2025-02-20": 58
     }
   },
@@ -45,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "65.82%",
+    "uptime": "65.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +57,7 @@
     "timeMonth": 284,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2026-01-02": 1,
+      "2026-01-02": 1361,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
