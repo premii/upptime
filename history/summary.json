@@ -48,12 +48,12 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "14.35%",
+    "uptimeDay": "13.36%",
     "uptimeWeek": "7.73%",
-    "uptimeMonth": "34.89%",
+    "uptimeMonth": "34.80%",
     "uptimeYear": "94.57%",
     "time": 266,
-    "timeDay": 253,
+    "timeDay": 245,
     "timeWeek": 251,
     "timeMonth": 247,
     "timeYear": 260,
@@ -79,7 +79,8 @@
       "2026-09-03": 1262,
       "2026-09-04": 1345,
       "2026-09-05": 1360,
-      "2026-09-06": 1208
+      "2026-09-06": 1246,
+      "2026-09-07": 1
     }
   }
 ]
